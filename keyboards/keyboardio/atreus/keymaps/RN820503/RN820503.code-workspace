@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../../qmk_firmware/keyboards/keyboardio/atreus/keymaps/RN820503/features"
+		}
+	],
+	"settings": {}
+}
